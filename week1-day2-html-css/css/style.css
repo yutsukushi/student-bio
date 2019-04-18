@@ -8,13 +8,15 @@ body {
 
 header {
     background-color: #333333;
-    padding: 1px;
 }
 
 h1 {
     color: #eee;
     font-size: 28px;
     text-align: center;
+    padding: 10px;
+    margin: 0;
+    margin-bottom: 18px;
 }
 
 h2 {
